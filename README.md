@@ -16,10 +16,14 @@ A technical portfolio case study documenting practical exercises completed in HT
 ## Project structure
 - `docs/` — technical notes organized by topic
 - `notes/` — assessment analysis and evidence register
-- `evidence/screenshots/` — sanitized screenshots from the lab
+- `evidence/screenshots/` — lab screenshots
 
 ## Evidence and responsible disclosure
-This is an independent learning record, not an official HTB publication. Keep flags, credentials, hashes, tokens, target addresses, and other sensitive lab details out of the public repository. Distinguish direct observations from hypotheses and report-derived statements. Do not fabricate evidence.
+This is an independent learning record, not an official HTB publication. The screenshots are present in the repository and support the documented database, query-logic, UNION, metadata, file-operation, and skills-assessment exercises.
+
+**Publication warning:** screenshots inspected in this repository currently expose lab flag values and historical target/session details, including terminal prompt information. They are not sanitized for public portfolio distribution. Keep originals privately and replace public copies with redacted versions before presenting this repository as publication-ready. Do not publish flags, credentials, hashes, tokens, target addresses, or other sensitive lab details.
+
+Distinguish direct observations from hypotheses and report-derived statements. Do not fabricate evidence.
 
 ## Author
 Portfolio repository maintained by [teresiawaruiruwa-svg](https://github.com/teresiawaruiruwa-svg).
